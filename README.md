@@ -8,7 +8,7 @@
 
 ## 프로젝트 소개
 - 프로젝트 이름 : Baejoy 🏫
-- 개발 엔진 및 언어 : Unity & C#
+- 개발 엔진 및 언어 : Unity & C#, HTML, CSS, JavaScript
 - 팀원 : 김연화, 방은희, 양단비, 이소현
 
 | ![Image](https://github.com/user-attachments/assets/0041ac52-615f-4e6b-8b0e-9aaeefe0bef2) | ![Image](https://github.com/user-attachments/assets/31486aa2-4436-44e9-8dfe-72d4e4b3f4f1) |
